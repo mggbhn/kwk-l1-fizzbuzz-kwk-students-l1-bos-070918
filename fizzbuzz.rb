@@ -8,7 +8,7 @@ def fizzbuzz(int)
   end
 end
 
-puts fizzbuzz(int)
+puts fizzbuzz(5)
 
 
 def fizzbuzz(int=gets.to_i)
